@@ -7,8 +7,7 @@ This GitHub repository contains a Crop Prediction model developed using Machine 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -28,21 +27,21 @@ To run the Crop Prediction model and GUI locally, follow these steps:
    1.Clone the repository to your local machine:
 
    
-   ```git clone https://github.com/RAJPOWELL/Crop.git```
+   ```shell git clone https://github.com/RAJPOWELL/Crop.git```
    
    2.Navigate to the project directory:
-   ```cd crop```
+   ```shell cd crop```
    
    3.Install the required dependencies for both the backend (Machine Learning model) and frontend (React GUI):
-   ```pip install -r requirements.txt```
-   ```npm install```
+   ```shell pip install -r requirements.txt```
+   ```shell npm install```
    
    4.Start the backend server:
-   ```cd server```
-   ```python server.py```
+   ```shell cd server```
+   ```shell python server.py```
    
    5.Start the frontend in Crop directory
-   ```npm start```
+   ```shell npm start```
    
 ## Usage
 - Launch the GUI by following the installation instructions.
