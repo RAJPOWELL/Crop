@@ -18,7 +18,7 @@ function Footer() {
   return (
     <div className="section footerSection">
       {/* Apply the custom font class to the <p> element */}
-      <p style={researcherTextStyle}>Team: <span style={{ fontWeight: 'bold' }}>Beta Qualifiers</span></p>
+      <p style={researcherTextStyle}><span style={{ fontWeight: 'bold' }}></span></p>
 
       <div className="footerLinksDiv">
         {/* Add your footer links here */}
