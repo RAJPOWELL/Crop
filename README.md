@@ -25,23 +25,23 @@ Agriculture is a vital part of our economy, and making informed decisions regard
 
 To run the Crop Prediction model and GUI locally, follow these steps:
 
-   1.Clone the repository to your local machine:
+   Clone the repository to your local machine:
 
    ```shell
    git clone https://github.com/RAJPOWELL/Crop.git
    
-   2.Navigate to the project directory:
+## 2.Navigate to the project directory:
    	cd crop
    
-   3.Install the required dependencies for both the backend (Machine Learning model) and frontend (React GUI):
+## 3.Install the required dependencies for both the backend (Machine Learning model) and frontend (React GUI):
    pip install -r requirements.txt
    npm install
    
-   4.Start the backend server:
+## 4.Start the backend server:
    cd server
    python server.py
    
-   5.Start the frontend in Crop directory
+## 5.Start the frontend in Crop directory
    npm start
    
 ## Usage
