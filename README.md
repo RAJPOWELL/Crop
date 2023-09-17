@@ -25,7 +25,7 @@ Agriculture is a vital part of our economy, and making informed decisions regard
 
 To run the Crop Prediction model and GUI locally, follow these steps:
 
-   Clone the repository to your local machine:
+   1.Clone the repository to your local machine:
 
    
    ```git clone https://github.com/RAJPOWELL/Crop.git```
@@ -45,9 +45,9 @@ To run the Crop Prediction model and GUI locally, follow these steps:
    ```npm start```
    
 ## Usage
-- **Launch the GUI by following the installation instructions.
-- **Input the relevant environmental and soil data.
-- **Click the "Predict" button to obtain crop predictions.
+- Launch the GUI by following the installation instructions.
+- Input the relevant environmental and soil data.
+- Click the "Predict" button to obtain crop predictions.
 	
    
 
