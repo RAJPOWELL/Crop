@@ -28,7 +28,7 @@ To run the Crop Prediction model and GUI locally, follow these steps:
    Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/RAJPOWELL/Crop.git
+   git clone https://github.com/RAJPOWELL/Crop.git```
    
    2.Navigate to the project directory:
    cd crop
