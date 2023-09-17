@@ -34,13 +34,14 @@ To run the Crop Prediction model and GUI locally, follow these steps:
    
    3.Install the required dependencies for both the backend (Machine Learning model) and frontend (React GUI):
    ```pip install -r requirements.txt```
-   ```npm install```
+   
    
    4.Start the backend server:
    ```cd server```
    ```python server.py```
    
    5.Start the frontend in Crop directory
+   ```npm i```
    ```npm start```
    
 ## Usage
