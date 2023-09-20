@@ -45,7 +45,7 @@ To run the Crop Prediction model and GUI locally, follow these steps:
    ```npm start```
    
 ## Usage
-- Launch the GUI by following the installation instructions.
+- Launch the GUI by following the installation instruction.
 - Input the relevant environmental and soil data.
 - Click the "Predict" button to obtain crop predictions.
 	
