@@ -1,4 +1,4 @@
-# Crop Prediction Model with Machine Learning and React GUI
+# Crop Prediction Model with Machine Learning and GUI
 (Recommended OS for project execution, any Linux based OS)
 
 This GitHub repository contains a Crop Prediction model developed using Machine Learning techniques and a user-friendly Graphical User Interface (GUI) built with React. This project aims to assist farmers and agricultural experts in predicting suitable crops for a given set of environmental and soil conditions, thus optimizing crop selection and increasing agricultural productivity.
